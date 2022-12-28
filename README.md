@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Marc-93
+- 👀 I’m interested in QA automation frameworks
+- 🌱 I’m currently learning javascript + cypress
+- 💞️ I’m looking to collaborate on QA automation frameworks
+- 📫 How to reach me marc93ac@gmail.com
